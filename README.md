@@ -14,18 +14,10 @@ usage:
 
 	hst <action> hostName [networkAddress]
 	
-networkAddress can be omitted; defaults to loopback (127.0.0.1)
-action must be one of the following: 
-
-add
-: adds an entry for hostName @ [networkAdress]
-
-delete
-: removes entry for hostName
-
-check
-: exitcode of 1 or 0, useful for scripting
-
-replace
-: replaces the hostName entry with [networkAddress]
+### networkAddress can be omitted; defaults to loopback (127.0.0.1)
+### action must be one of the following: 
++ add: adds an entry for hostName @ [networkAdress]
++ delete: removes entry for hostName
++ check: exitcode of 1 or 0, useful for scripting
++ replace: replaces the hostName entry with [networkAddress]
 	
