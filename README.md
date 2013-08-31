@@ -4,7 +4,7 @@ hst - manage your host file
 Simple cmd line to enable management of host files in Windows... without the UAC hoops, and in such a way that you can automate it.  
 
 + Install and add a host entry in less characters than you type to open system32/drivers/etc/hosts
-+ and without touching a rodent
++ **Without touching a rodent**
 
 Install with [chocolatey](http://chocolatey.org/)
 
