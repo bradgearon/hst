@@ -1,4 +1,4 @@
-hst - manage your host file without UAC or rodents
+hst - manage your host in windows
 ========================
 
 Simple cmd line to enable management of host files in Windows... without the UAC hoops, and in such a way that you can automate it.  
