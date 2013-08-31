@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hst", "hst.csproj", "{1235CC7D-D3E6-4C9D-9CE5-A213489134CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hst", "src\hst\hst.csproj", "{1235CC7D-D3E6-4C9D-9CE5-A213489134CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

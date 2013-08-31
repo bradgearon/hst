@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>hst</id>
+    <title>hst</title>
+    <version>0.0.0.1</version>
+    <authors>Brad Gearon</authors>
+    <owners>Brad Gearon</owners>
+    <summary>hst : tool to automate / simplify host file management on windows</summary>
+    <description>
+		hst cmd line: hst &lt;action&gt; hostName [networkAddress]
+		available actions: [a]dd [d]elete [r]eplace [c]heck
+	</description>
+    <projectUrl>https://github.com/bradgearon/hst</projectUrl>
+    <tags>hosts hostfile automation admin host hosts</tags>
+    <copyright></copyright>
+    <licenseUrl>https://github.com/bradgearon/hst/raw/master/lic.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/bradgearon/hst/raw/master/resources/icon.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes>initial version</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
